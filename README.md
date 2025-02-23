@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamindu-gayanuka" alt="chamindu-gayanuka" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/gayanukac" target="blank"><img src="https://img.shields.io/twitter/follow/gayanukac?logo=twitter&style=for-the-badge" alt="gayanukac" /></a> </p>
+
 - 🔭 I’m currently working on **Android App Locker**
 
 - 🌱 I’m currently learning **AWS and Azure**
@@ -18,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gayanukac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gayanukac" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chamindu-gayanuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu-gayanuka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chamindu-gayanuka-244585270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamindu-gayanuka-244585270" height="30" width="40" /></a>
 <a href="https://fb.com/chamindu.gayanuka.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamindu.gayanuka.1" height="30" width="40" /></a>
 <a href="https://instagram.com/chamindugayanuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamindugayanuka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chamindugayanuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chamindugayanuka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@chamindugayanuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@chamindugayanuka" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chamindugayanuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamindugayanuka" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gayanuka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayanuka" height="30" width="40" /></a>
 </p>
@@ -32,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamindu-gayanuka&show_icons=true&locale=en&layout=compact" alt="chamindu-gayanuka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamindu-gayanuka&show_icons=true&locale=en" alt="chamindu-gayanuka" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chamindu-gayanuka&" alt="chamindu-gayanuka" /></p>
