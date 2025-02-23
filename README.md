@@ -32,7 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamindu-gayanuka&show_icons=true&locale=en&layout=compact" alt="chamindu-gayanuka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chamindu-gayanuka&show_icons=true&locale=en" alt="chamindu-gayanuka" /></p>
-
-<img src="https://raw.githubusercontent.com/Chamindu-Gayanuka/Chamindu-Gayanuka/output/snake.svg" alt="Snake animation" />
-
-###
