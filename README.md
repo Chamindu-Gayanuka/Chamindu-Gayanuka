@@ -3,7 +3,7 @@
 
 ### 👀 Profile views counter
 
-#### ![Visitor Count](https://profile-counter.glitch.me/{Chamindu-Gayanuka}/count.svg)
+## ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Chamindu-Gayanuka.Chamindu-Gayanuka&title=Visitors)
 
 ## 🏆 GitHub Trophies
 
